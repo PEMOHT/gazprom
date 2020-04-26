@@ -1,0 +1,20 @@
+{
+  "name": "gazprom/test",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aryasov Mikhail",
+      "email": "pemoht90@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Gazprom\\": "src/"
+    }
+  },
+  "require": {
+    "php": "7.4"
+  }
+}
